@@ -33,6 +33,8 @@ length(y)
 sqrt(length(y))
 mean(y)
 
+#testing the git hub
+
 y = c(12,23,10,5)
 
 E <- std_err(y)
